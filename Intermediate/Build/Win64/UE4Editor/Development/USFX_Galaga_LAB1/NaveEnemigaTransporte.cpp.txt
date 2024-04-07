@@ -1,0 +1,5 @@
+C:\USFX_LAB1_GALAGA_TECLAS\USFX_Galaga_LAB1-master\Intermediate\Build\Win64\UE4Editor\Development\USFX_Galaga_LAB1\Definitions.USFX_Galaga_LAB1.h
+C:\USFX_LAB1_GALAGA_TECLAS\USFX_Galaga_LAB1-master\Source\USFX_Galaga_LAB1\NaveEnemigaTransporte.h
+C:\USFX_LAB1_GALAGA_TECLAS\USFX_Galaga_LAB1-master\Source\USFX_Galaga_LAB1\NaveEnemiga.h
+C:\USFX_LAB1_GALAGA_TECLAS\USFX_Galaga_LAB1-master\Intermediate\Build\Win64\UE4Editor\Inc\USFX_Galaga_LAB1\NaveEnemiga.generated.h
+C:\USFX_LAB1_GALAGA_TECLAS\USFX_Galaga_LAB1-master\Intermediate\Build\Win64\UE4Editor\Inc\USFX_Galaga_LAB1\NaveEnemigaTransporte.generated.h

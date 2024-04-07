@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "USFX_Galaga_LAB1",
+			"Path": "C:\\USFX_LAB1_GALAGA_TECLAS\\USFX_Galaga_LAB1-master\\Source\\USFX_Galaga_LAB1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "USFX_Galaga_LAB1Editor",
+			"Path": "C:\\USFX_LAB1_GALAGA_TECLAS\\USFX_Galaga_LAB1-master\\Source\\USFX_Galaga_LAB1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
